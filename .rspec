@@ -1,0 +1,4 @@
+--require spec_helper
+--require spec_author
+--require spec_commit
+--require spec_repository
